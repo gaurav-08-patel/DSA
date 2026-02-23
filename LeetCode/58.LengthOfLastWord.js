@@ -1,9 +1,9 @@
 /**
- * @param {string} s
+ * @param {string} string
  * @return {number}
  */
-var lengthOfLastWord = function (s) {
-    let lastWord = s.trim().split(" ").reverse()[0];
+var lengthOfLastWord = function (string) {
+    let lastWord = string.trim().split(" ").reverse()[0];
 
     return lastWord.length;
 };
