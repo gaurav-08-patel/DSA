@@ -12,7 +12,7 @@ var findMedianSortedArrays = function (nums1, nums2) {
             (sortedArr[sortedArr.length / 2 - 1] +
                 sortedArr[sortedArr.length / 2]) /
             2;
-        return median;
+        return median; 
     } else {
         return sortedArr[(sortedArr.length - 1) / 2];
     }
