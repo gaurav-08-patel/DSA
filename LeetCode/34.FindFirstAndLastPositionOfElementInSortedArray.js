@@ -13,7 +13,7 @@ var searchRange = function (nums, target) {
         if (num === target) {
             range.push(nums.indexOf(num));
             return true;
-        }
+        } 
     });
 
     nums.reverse().some((num) => {
