@@ -5,5 +5,5 @@
 var lengthOfLastWord = function (string) {
     let lastWord = string.trim().split(" ").reverse()[0];
 
-    return lastWord.length;
+    return lastWord.length; 
 };
