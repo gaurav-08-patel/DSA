@@ -27,4 +27,4 @@ int main(){
     Solution sol;
     cout << sol.twoSum(nums, target);
 
-}  
+}   
