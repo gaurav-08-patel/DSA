@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaurav-08-patel/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
