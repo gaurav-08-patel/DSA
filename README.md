@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
