@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> result(n,-1);
+        stack<int> st; // store indices
+
+        // i < 2 * n to traverse array 2 times to simulate circular behaviour
+        for(int i=0 ; i<2*n ; i++){
+            int num = nums[i%n]; // get num 
+
+            while(!st.empty() && nums[st.top()] < num){
+                result[st.top()] = num;
+                st.pop();
+            }
+
+            if(i < n) st.push(i); //only push indices during first pass
+        }
+
+        return result;
+    }
+};
