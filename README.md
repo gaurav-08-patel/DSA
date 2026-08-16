@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/gaurav-08-patel/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gaurav-08-patel/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0503-next-greater-element-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/gaurav-08-patel/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gaurav-08-patel/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gaurav-08-patel/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
