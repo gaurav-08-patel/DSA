@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/gaurav-08-patel/DSA/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav-08-patel/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaurav-08-patel/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav-08-patel/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaurav-08-patel/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
 ## String
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
+| [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav-08-patel/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
