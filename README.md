@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
+| [2299-strong-password-checker-ii](https://github.com/gaurav-08-patel/DSA/tree/master/2299-strong-password-checker-ii) |
 | [3941-password-strength](https://github.com/gaurav-08-patel/DSA/tree/master/3941-password-strength) |
 ## Trie
 |  |
