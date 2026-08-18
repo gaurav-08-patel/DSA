@@ -1,8 +1,9 @@
 class Solution {
 public:
     bool isVowel(char c) {
-        string vowels = "aeiouAEIOU";
-        return vowels.find(c) != string::npos;
+        static const unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u',
+                                                   'A', 'E', 'I', 'O', 'U'};
+        return vowels.count(c);
     }
     string reverseVowels(string s) {
         int left = 0, right = s.size() - 1;
