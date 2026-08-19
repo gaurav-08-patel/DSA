@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/gaurav-08-patel/DSA/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [2299-strong-password-checker-ii](https://github.com/gaurav-08-patel/DSA/tree/master/2299-strong-password-checker-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gaurav-08-patel/DSA/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gaurav-08-patel/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav-08-patel/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
