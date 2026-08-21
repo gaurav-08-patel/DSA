@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gaurav-08-patel/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/gaurav-08-patel/DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/gaurav-08-patel/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gaurav-08-patel/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gaurav-08-patel/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
+| [0344-reverse-string](https://github.com/gaurav-08-patel/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
