@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gaurav-08-patel/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gaurav-08-patel/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-08-patel/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/gaurav-08-patel/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gaurav-08-patel/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gaurav-08-patel/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gaurav-08-patel/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gaurav-08-patel/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/gaurav-08-patel/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gaurav-08-patel/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gaurav-08-patel/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gaurav-08-patel/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gaurav-08-patel/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/gaurav-08-patel/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gaurav-08-patel/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gaurav-08-patel/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/gaurav-08-patel/DSA/tree/master/0075-sort-colors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gaurav-08-patel/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
