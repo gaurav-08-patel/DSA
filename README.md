@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/gaurav-08-patel/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav-08-patel/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/gaurav-08-patel/DSA/tree/master/1470-shuffle-the-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gaurav-08-patel/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
 ## Heap (Priority Queue)
 |  |
