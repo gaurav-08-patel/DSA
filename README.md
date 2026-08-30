@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gaurav-08-patel/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gaurav-08-patel/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gaurav-08-patel/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gaurav-08-patel/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-08-patel/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav-08-patel/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/gaurav-08-patel/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
