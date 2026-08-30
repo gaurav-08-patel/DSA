@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gaurav-08-patel/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gaurav-08-patel/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gaurav-08-patel/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/gaurav-08-patel/DSA/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/gaurav-08-patel/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gaurav-08-patel/DSA/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gaurav-08-patel/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 ## Database
 |  |
 | ------- |
