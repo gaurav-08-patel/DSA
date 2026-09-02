@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0754-reach-a-number](https://github.com/gaurav-08-patel/DSA/tree/master/0754-reach-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gaurav-08-patel/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/gaurav-08-patel/DSA/tree/master/0729-my-calendar-i) |
+| [0754-reach-a-number](https://github.com/gaurav-08-patel/DSA/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurav-08-patel/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurav-08-patel/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
