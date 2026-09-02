@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/gaurav-08-patel/DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav-08-patel/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/gaurav-08-patel/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav-08-patel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/gaurav-08-patel/DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurav-08-patel/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurav-08-patel/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
