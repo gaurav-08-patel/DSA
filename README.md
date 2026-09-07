@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
+| [0940-distinct-subsequences-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2299-strong-password-checker-ii](https://github.com/gaurav-08-patel/DSA/tree/master/2299-strong-password-checker-ii) |
 | [3941-password-strength](https://github.com/gaurav-08-patel/DSA/tree/master/3941-password-strength) |
 ## Trie
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/gaurav-08-patel/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
