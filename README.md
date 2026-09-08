@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/gaurav-08-patel/DSA/tree/master/0754-reach-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3870-count-commas-in-range](https://github.com/gaurav-08-patel/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurav-08-patel/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gaurav-08-patel/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
