@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
 | [2643-row-with-maximum-ones](https://github.com/gaurav-08-patel/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurav-08-patel/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gaurav-08-patel/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gaurav-08-patel/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3941-password-strength](https://github.com/gaurav-08-patel/DSA/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
@@ -346,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav-08-patel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gaurav-08-patel/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
