@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [0729-my-calendar-i](https://github.com/gaurav-08-patel/DSA/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/gaurav-08-patel/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/gaurav-08-patel/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/gaurav-08-patel/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurav-08-patel/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gaurav-08-patel/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav-08-patel/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/gaurav-08-patel/DSA/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/gaurav-08-patel/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
