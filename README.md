@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/gaurav-08-patel/DSA/tree/master/0754-reach-a-number) |
+| [0836-rectangle-overlap](https://github.com/gaurav-08-patel/DSA/tree/master/0836-rectangle-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/gaurav-08-patel/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/gaurav-08-patel/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gaurav-08-patel/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
