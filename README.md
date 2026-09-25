@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gaurav-08-patel/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurav-08-patel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gaurav-08-patel/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gaurav-08-patel/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/gaurav-08-patel/DSA/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaurav-08-patel/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gaurav-08-patel/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/gaurav-08-patel/DSA/tree/master/0556-next-greater-element-iii) |
 | [0648-replace-words](https://github.com/gaurav-08-patel/DSA/tree/master/0648-replace-words) |
 | [0940-distinct-subsequences-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2299-strong-password-checker-ii](https://github.com/gaurav-08-patel/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gaurav-08-patel/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gaurav-08-patel/DSA/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gaurav-08-patel/DSA/tree/master/0037-sudoku-solver) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav-08-patel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gaurav-08-patel/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
