@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaurav-08-patel/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gaurav-08-patel/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gaurav-08-patel/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav-08-patel/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurav-08-patel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gaurav-08-patel/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3941-password-strength](https://github.com/gaurav-08-patel/DSA/tree/master/3941-password-strength) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/gaurav-08-patel/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/gaurav-08-patel/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gaurav-08-patel/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/3498-reverse-degree-of-a-string) |
