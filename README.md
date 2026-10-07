@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gaurav-08-patel/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/gaurav-08-patel/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/gaurav-08-patel/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/gaurav-08-patel/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav-08-patel/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/gaurav-08-patel/DSA/tree/master/0412-fizz-buzz) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gaurav-08-patel/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/gaurav-08-patel/DSA/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/gaurav-08-patel/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav-08-patel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gaurav-08-patel/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/gaurav-08-patel/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gaurav-08-patel/DSA/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
