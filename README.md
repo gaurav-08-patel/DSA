@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gaurav-08-patel/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/gaurav-08-patel/DSA/tree/master/2454-next-greater-element-iv) |
 | [2643-row-with-maximum-ones](https://github.com/gaurav-08-patel/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gaurav-08-patel/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/gaurav-08-patel/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gaurav-08-patel/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gaurav-08-patel/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
