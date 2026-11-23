@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurav-08-patel/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurav-08-patel/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav-08-patel/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/gaurav-08-patel/DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurav-08-patel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/gaurav-08-patel/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gaurav-08-patel/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/gaurav-08-patel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav-08-patel/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/gaurav-08-patel/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gaurav-08-patel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gaurav-08-patel/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/gaurav-08-patel/DSA/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/gaurav-08-patel/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gaurav-08-patel/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gaurav-08-patel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/gaurav-08-patel/DSA/tree/master/2409-count-days-spent-together) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/gaurav-08-patel/DSA/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -501,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gaurav-08-patel/DSA/tree/master/0547-number-of-provinces) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gaurav-08-patel/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
